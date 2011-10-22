@@ -377,11 +377,17 @@ a:hover {
 .offset12 {
   margin-left: 740px;
 }
+.span-one-sixth {
+  width: 150px;
+}
 .span-one-third {
   width: 300px;
 }
 .span-two-thirds {
   width: 620px;
+}
+.offset-one-sixth {
+  margin-left: 180px;
 }
 .offset-one-third {
   margin-left: 340px;
