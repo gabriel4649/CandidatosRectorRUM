@@ -1,1 +1,4 @@
 website/js/tests/
+
+# Vim .swp files
+*.swp
